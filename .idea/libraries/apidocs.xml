@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="apidocs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Intellij/Apache Commons Collections/commons-collections4-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../Intellij/Apache Commons Collections/apidocs" />
+      <root url="jar://$PROJECT_DIR$/../Intellij/Apache Commons Collections/commons-collections4-4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
